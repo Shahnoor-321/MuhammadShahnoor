@@ -1,0 +1,4 @@
+1|iphone 15|black|7/6/2026|tuckshop benches|Muhammad Shahnoor|01234567890|Resolved
+3|HP|grey laptop |7/8/20026|cafe|Muhammad Usama|03284783959|Resolved
+5|hp |laptop charger|9/6/2026|cafe|sharjeel|03299999990|Active
+7|iphone|grey|7/7/1001|cafe|caca|acdc|Active
